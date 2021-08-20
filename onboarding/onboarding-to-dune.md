@@ -2,24 +2,23 @@
 description: This post aims to educate about the ways to surface your data on dune
 ---
 
-# Surfacing your data on dune
+# Onboarding to dune
 
 ### Dune is an open platform that anyone can build on
 
 Team Dune often gets asked about "possible cooperation" and "ways to work together" and while we appreciate all these kind requests, there really isn't anything you need from the core team to be able to surface your data on dune.   
   
-Our platform is free and anyone can use the platform as they see fit. All you need is either a skilled freelancer or one of your developers and two afternoons of time to pull all the data together.
+Our platform is free, open and permissionless and anyone can use the platform as they see fit.   
+All you need is either a skilled freelancer or one of your developers to take care of the work part
 
 **The Process looks like this:**
 
 1.  **Compile a List of all relevant contracts and submit them for** [**decoding**](../data-tables/data-tables/decoded-data.md)**.**
-2.  **Find out which event logs and calls contain relevant data for your project.**
-3.  **Write a query that surfaces the relevant data.**
-4.  **Make nice visualizations for the dataset of the query from 4.**
-5.  **Repeat steps 3 and 4 until you have what you need.**
-6.  **Assemble all visualizations on a dashboard.**
-7.  **Make the dashboard pretty**
-8.  **Enjoy the data**
+2.  **Surface the data using SQL queries**
+3.  **Visualize the results**
+4.  **Assemble all visualizations on a dashboard.**
+5.  **Make the dashboard pretty**
+6.  **Enjoy your data**
 
 ### 
 

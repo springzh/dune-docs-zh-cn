@@ -41,9 +41,9 @@
   * [USD price for a token from Uniswap](working-on-dune/queries/untitled-2.md)
   * [Token \(and USD value\) per token over time for an address](working-on-dune/queries/untitled-1.md)
 
-## Surfacing your data on Dune
+## Onboarding
 
-* [Surfacing your data on dune](surfacing-your-data-on-dune/surfacing-your-data-on-dune.md)
+* [Onboarding to dune](onboarding/onboarding-to-dune.md)
 
 ## FAQ
 
