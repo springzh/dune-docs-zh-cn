@@ -1,7 +1,3 @@
----
-description: This post aims to educate about the ways to surface your data on dune
----
-
 # Onboarding to dune
 
 ### Dune is an open platform that anyone can build on
