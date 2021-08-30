@@ -14,9 +14,9 @@ You can easily assemble the data on average gas spent per tx, gas limit, gas spe
 
 Data on gas spent and similar metrics can also be relevant to certain protocols, so do keep this in mind.
 
-## **DeFi Adaption**
+## **DeFi Adoption**
 
-[Richard Chen](https://twitter.com/richardchen39) has compiled the user numbers of all imporant DeFi Protocols and compiled them on one Dashboard.
+[Richard Chen](https://twitter.com/richardchen39) has compiled the user numbers of all important DeFi Protocols and compiled them in one Dashboard.
 
 ![](../../.gitbook/assets/image%20%2821%29.png)
 
