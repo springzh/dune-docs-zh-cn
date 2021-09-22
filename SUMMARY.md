@@ -32,6 +32,7 @@
 * [Labels](working-on-dune/labels.md)
 * [Parameters](working-on-dune/parameters.md)
 * [Query templates](working-on-dune/queries/README.md)
+  * [ETH Balance of a wallet](working-on-dune/queries/eth-balance-of-a-wallet.md)
   * [raw transactions per wallet](working-on-dune/queries/tx-wallet.md)
   * [gas metrics per wallet](working-on-dune/queries/gas-metrics-per-wallet.md)
   * [price queries](working-on-dune/queries/price-queries.md)
