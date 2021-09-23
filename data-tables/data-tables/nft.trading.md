@@ -5,7 +5,7 @@ description: >-
   table.
 ---
 
-# NFT.trading
+# NFT.trades
 
 ## **An easy way of querying for NFT data**
 

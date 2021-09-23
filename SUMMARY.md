@@ -17,8 +17,7 @@
 ## Data Tables
 
 * [Data tables](data-tables/data-tables/README.md)
-  * [NFT.trading](data-tables/data-tables/nft.trading.md)
-  * [NFT.trades](data-tables/data-tables/nft.trades.md)
+  * [NFT.trades](data-tables/data-tables/nft.trading.md)
   * [Raw Data](data-tables/data-tables/raw-data/README.md)
     * [Ethereum data](data-tables/data-tables/raw-data/ethereum-data.md)
     * [xDai Data](data-tables/data-tables/raw-data/xdai-data.md)
