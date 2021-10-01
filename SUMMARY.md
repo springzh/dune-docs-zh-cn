@@ -47,6 +47,10 @@
 
 * [Onboarding to dune](onboarding/onboarding-to-dune.md)
 
+## Bounties
+
+* [Wizard Request Program](bounties/wizard-request-program.md)
+
 ## FAQ
 
 * [How does Dune get it's data ?](faq/how-does-dune-get-its-data.md)
